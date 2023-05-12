@@ -7,7 +7,7 @@ categories: jekyll update
 
 <p>An explainer Jupyter Notebook. The explainer notebook contains all the behind the scenes data-analysis stuff, details on the dataset, why we've selected these particular visualizations, explanations methodology, etc. The purpose of the explainer notebook is to provide additional details for interested/scientific readers.</p>
 <p style="text-align:justify">The notebook contains our analysis and code. And it is structured accordingly to the course's git website instructions. To view the notebook click in the below link.</p>
-<a href="https://github.com/sifat-e-noor/Social_visualization/blob/2d407f2728075d0d36345484e0b72d12ec531fc3/Projects/Project%20Assignment%20B%20-%20The%20Viz%20and%20the%20Notebook.ipynb"> Project Assignment B - The Viz and the Notebook </a>
+<a href="https://github.com/sifat-e-noor/Social_visualization/blob/d06571720421a08f947343ed278ce7e880b8c9c5/Projects/Project-Assignment-B-The-Viz-and-the-Notebook-1.ipynb"> Project Assignment B - The Viz and the Notebook </a>
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
