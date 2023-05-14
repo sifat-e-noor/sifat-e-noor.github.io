@@ -20,13 +20,13 @@ title:  "Degrading or Liberating:Exploring Prostitution in San Francisco between
   <p>The next part of the analysis dives deeper into prostitution in recent years, by looking at the data between the years 2010 and 2017. In 2010, there were 1281 prostitution-related crimes, this number fell to 449 in 2014 and 370 in 2015, the latter of which is the lowest recorded in the dataset (between 2003 and 2017). The calendar plot visualizes the progression and differences in recorded prostitution over the years. The earlier years between 2010 and 2013 have between 0 and 25 crimes recorded per day. In the years between 2014 and 2017, there are fewer than 5 instances recorded per day, but there are many days with between 25 and 45 instances recorded. This indicates that in the years between 2010 and 2013, there are more days with incidents, but fewer incidents per day, while in the years between 2014 and 2017, there are fewer days with incidents but a higher number of incidents per day. This alludes to the likelihood of more incidents per day being a result of police investigations and crackdowns where many incidents may be counted on a specific day.</p>
     <figure>
       <div class="row row-cols-1">
-        <div class="col" style="background-color:lavender;"><em>a</em><img src="calplot - new.png" alt=""></div>
+        <div class="col" style="background-color:lavender;"><em>a</em><img src="/assets/calplot - new.png" alt=""></div>
       </div>
       <div class="row row-cols-2">
-        <div class="col" style="background-color:lavender;"><em>b</em><img src="No. of crimes per week-day by category-pros.png" alt=""></div>
-        <div class="col" style="background-color:lavender;"><em>c</em><img src="No. of crimes per month by category-pros.png" alt=""></div>
-        <div class="col" style="background-color:lavender;"><em>d</em><img src="No. of crimes per hour day by category-pros.png" alt=""></div>
-        <div class="col" style="background-color:lavender;"><em>e</em><img src="No. of crimes per hour week-day by category-pros.png" alt=""></div><br>
+        <div class="col" style="background-color:lavender;"><em>b</em><img src="/assets/No. of crimes per week-day by category-pros.png" alt=""></div>
+        <div class="col" style="background-color:lavender;"><em>c</em><img src="/assets/No. of crimes per month by category-pros.png" alt=""></div>
+        <div class="col" style="background-color:lavender;"><em>d</em><img src="/assets/No. of crimes per hour day by category-pros.png" alt=""></div>
+        <div class="col" style="background-color:lavender;"><em>e</em><img src="/assets/No. of crimes per hour week-day by category-pros.png" alt=""></div><br>
         <div class="col" style="background-color:lavender;"><em></em><img src="" alt=""></div>
         <div class="col" style="background-color:lavender;"><em></em><img src="" alt=""></div>
       </div><br><span style="white-space: pre-line"><figcaption><em>Caption:</em> Figure 1: a) A calendar plot depicting the occurrences of prostitution in San Francisco between the years 2010 and 2017. From 2010 to 2013, there are more days with incidents but fewer incidents per day and in the years between 2014 to 2017 there are fewer days with incidents but more incidents per day. This is likely due to police crackdowns on suspicions of prostitution and prostitution-related crime. The next subplots in the panel depict bar plots of prostitution occurrences b) per week-day, c) per month, d) per hour of the day, and e) per hour of the weekday]</figcaption></span>
@@ -40,7 +40,7 @@ title:  "Degrading or Liberating:Exploring Prostitution in San Francisco between
     <figure>
       <div class="col" style="background-color:lavender;"><embed 
        type="text/html" 
-       src="boekh_Viz_Line.html"
+       src="/assets/boekh_Viz_Line.html"
        width="675" 
        height="276"
        ></div><br><span style="white-space: pre-line"><figcaption><em>Caption:</em> Figure 2: An interactive Bokeh visualization comparing Prostitution crimes per hour with other crimes namely Disorderly conduct, Kidnapping, Loitering, Missing person, and Forcible sex offenses. The visualization depicts 2010 to 2017 data that has been normalized for comparison. The data shows that prostitution is most likely to occur at nighttime after 18:00 compared to any of the other crimes.</figcaption></span>
@@ -53,7 +53,7 @@ title:  "Degrading or Liberating:Exploring Prostitution in San Francisco between
     <figure>
       <div class="col" style="background-color:lavender;"><embed 
        type="text/html" 
-       src="map.html"
+       src="/assets/map.html"
        width="675" 
        height="276">
       </div><br><span style="white-space: pre-line"><figcaption><em>Caption:</em> Figure 3: An interactive heatmap depicting geospatial prostitution data in San Francisco between the years of 2010 and 2017. The heatmap illustrates 5 concentrations of prostitution, namely in the following SF districts: Tenderloin, Mission, Bayview, Sunset, and Ingleside. The two districts with heavier concentrations are Tenderloin and Mission, while the rest are more sparsely concentrated. Both districts have historically been associated with different forms of crime, including prostitution.</figcaption></span><br>
