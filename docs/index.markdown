@@ -241,7 +241,7 @@ layout: home
   <h5>References:</h5>
   <div class="row row-cols-1">
     <div class="col">
-    [1] 2023-turkey-and-syria-earthquake-faqs <cite><a href="https://www.worldvision.org/disaster-relief-news-stories/2023-turkey-and-syria-earthquake-faqs"> https://en.wikipedia.org/wiki/Google_Trends </a></cite><br>(https://www.worldvision.org/disaster-relief-news-stories/2023-turkey-and-syria-earthquake-faqs)()
+    [1] 2023-turkey-and-syria-earthquake-faqs <cite><a href="https://www.worldvision.org/disaster-relief-news-stories/2023-turkey-and-syria-earthquake-faqs"> https://en.wikipedia.org/wiki/Google_Trends </a></cite><br>
     [2] USGS, National Earthquake Information Center (NEIC) <cite><a href="https://www.usgs.gov/programs/earthquake-hazards/national-earthquake-information-center-neic">https://www.usgs.gov/programs/earthquake-hazards/national-earthquake-information-center-neic</a></cite><br>
     [3] USGS <cite><a href="https://www.usgs.gov/"> https://www.usgs.gov/ </a></cite><br>
     [4] Earthquakes<cite><a href="https://www.ready.gov/earthquakes"> https://www.usgs.gov/ </a></cite><br>
@@ -287,8 +287,8 @@ layout: home
     [41] Japan 2011 earthquake tsunami facts<cite><a href="https://www.livescience.com/39110-japan-2011-earthquake-tsunami-facts.html">https://www.livescience.com/39110-japan-2011-earthquake-tsunami-facts.html</a></cite><br>
     [42] 2023 Turkey Syria earthquake <cite><a href="https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake">https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake</a></cite><br>
     [43] First thing turkey syria earthquake death toll <cite><a href="https://www.theguardian.com/us-news/2023/feb/07/first-thing-turkey-syria-earthquake-death-toll"> https://www.theguardian.com/us-news/2023/feb/07/first-thing-turkey-syria-earthquake-death-toll</a></cite><br>
-    [44] Impact 2023 earthquakes turkiyes economy first estimates <cite> <a href=https://cepr.org/voxeu/columns/impact-2023-earthquakes-turkiyes-economy-first-estimates> https://cepr.org/voxeu/columns/impact-2023-earthquakes-turkiyes-economy-first-estimates</a></cite><br>
-    [45] Earthquake_casualty_estimation <cite><a href=https://en.wikipedia.org/wiki/Earthquake_casualty_estimation>https://en.wikipedia.org/wiki/Earthquake_casualty_estimation</a></cite><br>
+    [44] Impact 2023 earthquakes turkiyes economy first estimates <cite> <a href="https://cepr.org/voxeu/columns/impact-2023-earthquakes-turkiyes-economy-first-estimates"> https://cepr.org/voxeu/columns/impact-2023-earthquakes-turkiyes-economy-first-estimates</a></cite><br>
+    [45] Earthquake casualty estimation <cite><a href="https://en.wikipedia.org/wiki/Earthquake_casualty_estimation">https://en.wikipedia.org/wiki/Earthquake_casualty_estimation</a></cite><br>
 
 
 
